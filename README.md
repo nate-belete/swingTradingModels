@@ -46,3 +46,61 @@
    e. Story: Build Tableau Monitoring Dashboard
       - Sub-task: Design Tableau dashboard layout.
       - Sub-task: Implement and test dashboard features.
+
+
+
+Issue Types:
+
+Epic:
+
+Policy Implementation
+Model Review & Analysis
+Monitoring Project
+Story:
+
+Quantify Disparate Impact of Policy Change
+Review White Paper & Summarize
+Review Model Code
+Generate Summary Statistics
+Search for Disparate Treatment & Impact
+Search for LDA
+Rerun Existing Monitoring Code
+Write Project Plan for Monitoring Project
+Build Data Models for Monitoring Project
+Generate Summary Statistics Tables
+Build Tableau Monitoring Dashboard
+Task:
+
+Discuss Results with Legal
+Discuss Results with Business
+Code Implementation
+Data Cleaning & Preparation
+Documentation
+Workflow:
+
+To Do: New tasks or stories are added here.
+In Progress: Tasks or stories being actively worked on.
+Code Review: Code-related tasks await review.
+Legal/Business Review: Tasks needing feedback or approval from Legal or Business teams.
+Testing: Tasks or stories undergoing testing.
+Done: Completed tasks or stories.
+Additional Considerations:
+
+Components: You can add components to categorize issues further, e.g., "Policy," "Models," "Monitoring."
+Labels: Use labels to highlight specific aspects, e.g., "Disparate Impact," "LDA," "Tableau."
+Priority: Set priorities to indicate the urgency of tasks or stories.
+Assignee: Assign tasks or stories to relevant team members.
+Due Dates: Set due dates to track progress and deadlines.
+Example Workflow:
+
+A new "Story" is created under the "Policy Implementation" epic: "Quantify Disparate Impact of Policy Change."
+The story is assigned to you and moves to "In Progress."
+You create "Tasks" under this story, e.g., "Code Implementation," "Data Cleaning & Preparation."
+As you work on these tasks, they move through "Code Review," "Testing," and finally to "Done."
+Once all tasks are complete, the "Story" is moved to "Legal/Business Review" for feedback.
+After incorporating feedback, the "Story" is moved to "Done."
+Remember:
+
+Customize the JIRA board further to suit your team's specific needs and processes.
+Regularly review and refine the board as your work evolves.
+Let me know if you have any other questions or would like assistance with further customization!
